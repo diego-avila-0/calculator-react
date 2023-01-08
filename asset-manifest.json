@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/calculator-react/static/css/main.1923ba0e.css",
+    "main.js": "/calculator-react/static/js/main.7f1ab0b9.js",
+    "static/js/787.207e0cf3.chunk.js": "/calculator-react/static/js/787.207e0cf3.chunk.js",
+    "static/media/freecodecamp-logo.png": "/calculator-react/static/media/freecodecamp-logo.5486935b905c7949600c.png",
+    "index.html": "/calculator-react/index.html",
+    "main.1923ba0e.css.map": "/calculator-react/static/css/main.1923ba0e.css.map",
+    "main.7f1ab0b9.js.map": "/calculator-react/static/js/main.7f1ab0b9.js.map",
+    "787.207e0cf3.chunk.js.map": "/calculator-react/static/js/787.207e0cf3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1923ba0e.css",
+    "static/js/main.7f1ab0b9.js"
+  ]
+}
