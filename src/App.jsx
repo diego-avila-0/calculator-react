@@ -16,7 +16,7 @@ function App() {
     
   };
 
-  const calcResult = () => {
+  const calcResult = () => { 
     if (input) {
       setInput(evaluate(input));
     }else{
