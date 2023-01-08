@@ -10,6 +10,7 @@ export function Button(props) {
   return(
     <div 
     className={`btn_container ${ ifNumOperator(props.children) ? 'operator' : '' }`.trim()}
+    onClick={ () => props.setInputVal(props.children) }
     >
       {props.children}
     </div>
