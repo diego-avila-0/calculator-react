@@ -26,13 +26,13 @@ function App() {
 
   return (
     <div className="App">
-      <div className="container_logo_freecodecamp">
+      {/* <div className="container_logo_freecodecamp">
         <img
           src={logoFreeCodeCamp}
           alt="Logo de freecodecamp"
           className="logo_freecodecamp"
         />
-      </div>
+      </div> */}
       <div className="container_calculator">
         <Screen input={input} />
         <div className="fila">
